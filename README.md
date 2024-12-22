@@ -42,9 +42,12 @@ Welcome to the Smart Obstacle Avoidance and Bluetooth Controlled Vehicle project
 
 ## 🖼️ Images/Media  
 
-- *[Image of the fully assembled bot]*  
-- *[Image of Bluetooth app controlling the bot]*  
-- *[Diagram of circuit connections]*  
+![image](https://github.com/user-attachments/assets/28f33275-d78a-4498-a644-196b697a1f16)
+
+![image](https://github.com/user-attachments/assets/84eb6af1-2c37-4796-96be-c27f92416a4c)
+
+![image](https://github.com/user-attachments/assets/f2e9f27f-637c-4656-a138-39679cd82db6)
+
 - *[GIF of the bot avoiding an obstacle]*  
 
 *(Add your project images here to showcase your creativity and hard work!)*  
