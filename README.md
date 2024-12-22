@@ -42,13 +42,34 @@ Welcome to the Smart Obstacle Avoidance and Bluetooth Controlled Vehicle project
 
 ## 🖼️ Images/Media  
 
-![image](https://github.com/user-attachments/assets/28f33275-d78a-4498-a644-196b697a1f16)
+Here's the updated section with proper formatting for the images, videos, and PPT:  
 
-![image](https://github.com/user-attachments/assets/84eb6af1-2c37-4796-96be-c27f92416a4c)
+---  
 
-![image](https://github.com/user-attachments/assets/f2e9f27f-637c-4656-a138-39679cd82db6)
 
-- *[GIF of the bot avoiding an obstacle]*  
+### Images  
+![Ultrasonic Sensor Setup](https://github.com/user-attachments/assets/28f33275-d78a-4498-a644-196b697a1f16)  
+*Figure 1: Ultrasonic sensor integration with Arduino.*  
+
+![Servo Motor and Circuit](https://github.com/user-attachments/assets/84eb6af1-2c37-4796-96be-c27f92416a4c)  
+*Figure 2: Servo motor and circuit assembly.*  
+
+![Bluetooth Module Interface](https://github.com/user-attachments/assets/f2e9f27f-637c-4656-a138-39679cd82db6)  
+*Figure 3: Bluetooth module for remote control functionality.*  
+
+### Demo Videos  
+- [Obstacle Avoidance Demo Video](https://github.com/user-attachments/assets/c49b5e23-dc40-4cab-a2f2-06b5d2f3c131)  
+*Video 1: Demonstration of the car avoiding obstacles using ultrasonic sensors.*  
+
+- [Bluetooth Control Demo Video](https://github.com/user-attachments/assets/5a91dda5-8c7b-420b-848f-1d2878786087)  
+*Video 2: Demonstration of the car being controlled via smartphone using Bluetooth.*  
+
+### Presentation  
+[IOT_PPT[1].pptx](https://github.com/user-attachments/files/18222446/IOT_PPT.1.pptx)  
+*Comprehensive presentation covering the project overview, components, circuit diagram, and future scope.*  
+
+---  
+
 
 *(Add your project images here to showcase your creativity and hard work!)*  
 
