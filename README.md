@@ -25,20 +25,8 @@ Welcome to the Smart Obstacle Avoidance and Bluetooth Controlled Vehicle project
      - `SoftwareSerial.h`  
    - Load the code into your Arduino board.  
 
-3. **Bluetooth Pairing**:  
-   - Pair your phone with the Bluetooth module (use apps like Arduino Bluetooth Controller).  
-   - Control the robot with commands:  
-     - `F` for Forward  
-     - `B` for Backward  
-     - `L` for Left  
-     - `R` for Right  
-
-4. **Testing Obstacle Avoidance**:  
-   - Place obstacles within a 14 cm range.  
-   - Watch as the robot intelligently navigates around them!  
-
-5. **Power Up**:  
-   - Use a battery pack to supply power to the motors and Arduino board.  
+![Servo Motor and Circuit](https://github.com/user-attachments/assets/84eb6af1-2c37-4796-96be-c27f92416a4c)  
+* Servo motor and circuit assembly.*  
 
 ## 🖼️ Images/Media  
 
@@ -51,8 +39,6 @@ Here's the updated section with proper formatting for the images, videos, and PP
 ![Ultrasonic Sensor Setup](https://github.com/user-attachments/assets/28f33275-d78a-4498-a644-196b697a1f16)  
 *Figure 1: Ultrasonic sensor integration with Arduino.*  
 
-![Servo Motor and Circuit](https://github.com/user-attachments/assets/84eb6af1-2c37-4796-96be-c27f92416a4c)  
-*Figure 2: Servo motor and circuit assembly.*  
 
 ![Bluetooth Module Interface](https://github.com/user-attachments/assets/f2e9f27f-637c-4656-a138-39679cd82db6)  
 *Figure 3: Bluetooth module for remote control functionality.*  
