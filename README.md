@@ -77,10 +77,10 @@ Here's the updated section with proper formatting for the images, videos, and PP
 ## 🏅 Special Thanks to Our Team  
 
 **Contributors**:  
-- 🤖 *[Your Name]* - Lead Programmer  
-- 🛠️ *[Teammate 1]* - Circuit Mastermind  
-- 💡 *[Teammate 2]* - Algorithm Guru  
-- 📱 *[Teammate 3]* - Bluetooth Integration Specialist  
+- 🤖 Jay doshi - Lead Programmer  
+- 🛠️ Shlok Patel- Circuit Mastermind  
+- 💡 Atul rathour - Algorithm Guru  
+- 📱 Rushi Kacha - Bluetooth Integration Specialist  
 
 Shoutout to our awesome team for making this project a success!  
 
