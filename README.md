@@ -5,7 +5,8 @@ Here’s a polished and professional-looking version of your README that’s cle
 # 🚗 Multifunctional Car  
 ### *Smart Obstacle Avoidance & Bluetooth-Controlled Vehicle*
 
-![Multifunctional Car](https://github.com/user-attachments/assets/2897e677-3d11-4170-9c64-f3ffe09aeed7)
+<img src="https://github.com/user-attachments/assets/2897e677-3d11-4170-9c64-f3ffe09aeed7" width="500"/>
+
 
 ---
 
@@ -48,16 +49,39 @@ This Arduino-powered robot combines **ultrasonic sensors**, **servo motors**, an
 
 ## 📸 Media & Demonstrations  
 
-### 🖼️ Images  
 
-| Component             | Description                                  |
-|-----------------------|----------------------------------------------|
-| ![Ultrasonic Sensor](https://github.com/user-attachments/assets/28f33275-d78a-4498-a644-196b697a1f16) | *Ultrasonic Sensor Setup* |
-| ![Bluetooth Module](https://github.com/user-attachments/assets/f2e9f27f-637c-4656-a138-39679cd82db6) | *Bluetooth Module Interface* |
-| ![Servo Setup](https://github.com/user-attachments/assets/84eb6af1-2c37-4796-96be-c27f92416a4c) | *Servo Motor & Circuit Assembly* |
-| ![IOT1](https://github.com/user-attachments/assets/03da7e39-7fec-4a2f-8362-1cc62b3f3418) | |
-| ![IOT3](https://github.com/user-attachments/assets/ebbf04ce-e1f1-4b5b-821c-43314ffd3665) | |
-| ![IOT4](https://github.com/user-attachments/assets/76c02e9b-83b1-46d0-a0ac-0e9b10119186) | |
+## 🖼️ Images  
+
+<table>
+  <tr>
+    <th>Component</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/28f33275-d78a-4498-a644-196b697a1f16" width="300"/></td>
+    <td><em>Ultrasonic Sensor Setup</em></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f2e9f27f-637c-4656-a138-39679cd82db6" width="300"/></td>
+    <td><em>Bluetooth Module Interface</em></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/84eb6af1-2c37-4796-96be-c27f92416a4c" width="300"/></td>
+    <td><em>Servo Motor & Circuit Assembly</em></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/03da7e39-7fec-4a2f-8362-1cc62b3f3418" width="300"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ebbf04ce-e1f1-4b5b-821c-43314ffd3665" width="300"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/76c02e9b-83b1-46d0-a0ac-0e9b10119186" width="300"/></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
