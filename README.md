@@ -1,9 +1,4 @@
 # Multifunctional-Car
-
-Here’s a creative README file for your Arduino project:  
-
----  
-
 # Smart Obstacle Avoidance and Bluetooth Controlled Vehicle  
 
 ## Project Overview  
