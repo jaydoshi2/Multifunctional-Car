@@ -1,8 +1,13 @@
 # Multifunctional-Car
+![IMG-20230323-WA0004](https://github.com/user-attachments/assets/2897e677-3d11-4170-9c64-f3ffe09aeed7)
+
 # Smart Obstacle Avoidance and Bluetooth Controlled Vehicle  
 
 ## Project Overview  
 Welcome to the Smart Obstacle Avoidance and Bluetooth Controlled Vehicle project! This Arduino-based creation combines ultrasonic sensors, servo motors, Bluetooth communication, and teamwork to bring a robot to life. Whether it's avoiding obstacles or responding to your smartphone commands, this bot is here to impress!  
+
+
+![IOT4](https://github.com/user-attachments/assets/76c02e9b-83b1-46d0-a0ac-0e9b10119186)
 
 ## 🚀 Setup Instructions  
 
@@ -44,6 +49,12 @@ Here's the updated section with proper formatting for the images, videos, and PP
 
 - [Bluetooth Control Demo Video](https://github.com/user-attachments/assets/5a91dda5-8c7b-420b-848f-1d2878786087)  
 *Video 2: Demonstration of the car being controlled via smartphone using Bluetooth.*  
+
+![IOT1](https://github.com/user-attachments/assets/03da7e39-7fec-4a2f-8362-1cc62b3f3418)
+
+![IOT3](https://github.com/user-attachments/assets/ebbf04ce-e1f1-4b5b-821c-43314ffd3665)
+
+
 
 ### Presentation  
 [IOT_PPT[1].pptx](https://github.com/user-attachments/files/18222446/IOT_PPT.1.pptx)  
