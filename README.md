@@ -1,6 +1,4 @@
-Here’s a polished and professional-looking version of your README that’s clean, organized, and visually appealing for GitHub:
 
----
 
 # 🚗 Multifunctional Car  
 ### *Smart Obstacle Avoidance & Bluetooth-Controlled Vehicle*
